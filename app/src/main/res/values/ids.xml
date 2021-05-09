@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="civPoster" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="tvReleaseYear" type="id" />
+    <item name="tvType" type="id" />
+</resources>
